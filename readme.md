@@ -1,3 +1,11 @@
+topic_modelling.ipynb - contains all the related code.
+project-csv.csv - is the data file after cleaning it in open refine.
+
+Steps to execute:
+
+open the topic_modelling.ipynb notebook and execute the cells in sequence.
+
+
 # The below text mining steps are carried out as part of the coding challenge.
 
 ## * Step1 : 
