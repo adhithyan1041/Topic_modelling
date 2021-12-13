@@ -47,5 +47,4 @@ Text Summarization of the objective is done using pegasus model abstractive text
 I chose the abstractive method rather extractive method, Since the abstractive method understands the text better and summarizes on its own than using the same sentenses from the original texts like extractive method.
 
 ## * Some Ideas
-# we can also visualize this data in tableau or some other visualization tool and show the organizations -> submitted projects -> The project details -> who funded the project.
-and also using topic modelling we can visualize and analyse in which topic more projects are approved and funded.
+# we can also visualize this data in tableau or some other visualization tool and show the organizations -> submitted projects -> The project details -> who funded the project. # and also using topic modelling we can visualize and analyse in which topic more projects are approved and funded.
